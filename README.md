@@ -1,9 +1,11 @@
-# mdBook
+# trueBook {in development}
 
-[![Build Status](https://github.com/rust-lang/mdBook/workflows/CI/badge.svg?event=push)](https://github.com/rust-lang/mdBook/actions?workflow=CI)
-[![crates.io](https://img.shields.io/crates/v/mdbook.svg)](https://crates.io/crates/mdbook)
 [![LICENSE](https://img.shields.io/github/license/rust-lang/mdBook.svg)](LICENSE)
 
+A adaptation of mdBook
+mdBooks README as of 2023-Jan-21 is given below:
+
+---
 mdBook is a utility to create modern online books from Markdown files.
 
 Check out the **[User Guide]** for a list of features and installation and usage information.
@@ -18,3 +20,4 @@ All the code in this repository is released under the ***Mozilla Public License 
 [User Guide]: https://rust-lang.github.io/mdBook/
 [contribution guide]: https://github.com/rust-lang/mdBook/blob/master/CONTRIBUTING.md
 [LICENSE]: https://github.com/rust-lang/mdBook/blob/master/LICENSE
+trueBook take no responsibility and issues a warning for any content on links outside of this repository (depot of code) and our own resources.
