@@ -1,8 +1,8 @@
-# trueBook {in development}
+# 📘trueBook {in development}
 
 [![LICENSE](https://img.shields.io/github/license/rust-lang/mdBook.svg)](LICENSE)
 
-<p> <b> A adaptation of mdBook </b><br>
+<p> <b> An adaptation of mdBook </b><br>
 Below is a segment from their README as of 2023-Jan-21 <br> <br>
 trueBook take no responsibility and issues a warning for any content on links outside of this repository (depot of code) and our own resources.
 As a result we have killed many links so below may not be the original, Refer to the project repo for a more accurate representation.
