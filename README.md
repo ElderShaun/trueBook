@@ -2,8 +2,8 @@
 
 [![LICENSE](https://img.shields.io/github/license/rust-lang/mdBook.svg)](LICENSE)
 
-A adaptation of mdBook
-mdBooks README as of 2023-Jan-21 is given below:
+A adaptation of mdBook <br>
+mdBook's README as of 2023-Jan-21 is given below:
 
 ---
 mdBook is a utility to create modern online books from Markdown files.
